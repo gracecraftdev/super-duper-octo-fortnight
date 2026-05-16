@@ -1,2 +1,2 @@
-# super-duper-octo-fortnight
+# projeto-pagina-receita
 Projeto de Estudos em HTML - Página de receitas
