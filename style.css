@@ -1,0 +1,62 @@
+body {
+    background-image: url(assets/imagem-de-fundo.jpg);
+    background-size: cover;
+}
+
+#page {
+    box-sizing: border-box;
+    width: 800px;
+    padding: 24px;
+    background-color: #F0E8C2;
+    border-radius: 24px;
+    margin: 48px auto;
+}
+
+img {
+    border-radius: 16px;
+}
+
+section {
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 700px;
+    margin: 48px auto;
+}
+
+h1 {
+    color: #291B1A;
+    font-size: 40px;
+    text-align: left;
+    line-height: 12px;
+    font-family: "Alice", serif;
+    font-weight: 400;
+}
+
+h2 {
+    color: #291B1A;
+    font-size: 24px;
+    text-align: left;
+    line-height: 12px;
+    font-family: "Alice", serif;
+    font-weight: 400;
+}
+
+p, ul {
+    color: #573A37;
+    font-size: 16px;
+    text-align: left;
+    line-height: 24px;
+    font-family: "Alice", serif;
+    font-weight: 400;
+}
+
+footer {
+    color: #F0E8C2;
+    text-align: center;
+    line-height: 16px;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+}
